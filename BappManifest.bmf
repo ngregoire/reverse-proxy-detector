@@ -1,0 +1,10 @@
+Uuid: a112997070354d249b64b4cf68eabc04
+ExtensionType: 2
+Name: Reverse Proxy Detector
+ScreenVersion: 0.4
+SerialVersion: 0
+MinPlatformVersion: 0
+ProOnly: False
+Author: Nicolas Grégoire
+ShortDescription: Detect reverse proxies
+EntryPoint: HttpTraceroute.py
